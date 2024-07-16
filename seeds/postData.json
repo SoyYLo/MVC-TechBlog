@@ -1,0 +1,14 @@
+[
+    {
+      "name": "Why is MVC so important?",
+      "description": "MVC allows developers to maintain a true separation of concerns, devising their code between the Model layer for data, the View layer for design, and the Controller layer for application logic."
+    },
+    {
+        "name": "What are the main differences between SQL and NoSQL databases?",
+        "description": "SQL databases are table-based, while NoSQL databases are non-relational. This means that a SQL database contains structured data and can perform an analysis using a relational model."
+    },
+    {
+        "name": "Object-Relational Mapping",
+        "description": "ORM has really simplified the way I create queries in SQL!"
+    }
+  ]
